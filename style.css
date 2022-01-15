@@ -55,6 +55,11 @@ padding-left: 630px;
 }
 .see-more{
     color: hotpink;
+    align-content: right;
+}
+.more{
+    text-align: right;
+    padding-right: 350px;
 }
 footer h3, p, a{
     text-align: center;
@@ -64,6 +69,7 @@ footer h3, p, a{
     background-color: black;
     padding: 45px;
     width: 100%;
+    text-align: center;
 }
 .white-color{
     color:white ;
@@ -72,4 +78,8 @@ footer h3, p, a{
     color: white;
   padding-left: 45px;
     
+}
+
+.social{
+    text-align: center;
 }
