@@ -6,6 +6,9 @@ font-family: 'Roboto Slab', serif;
 h2{
     font size: 30px;
 }
+h3{
+  padding-left: 50px;
+}
 h1{
     font-size: 60px;
 }
@@ -18,12 +21,41 @@ section{
     
 }
 
-}
 .book-now{
     text-decoration: none;
-    background-color: rgb(226, 62, 90);
+    background-color: rgb(221, 51, 79);
     color: white;
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
+   
+
+}
+.fas{
+    color: rgb(235, 186, 25);
+}
+.frame{
+    margin: 30px;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 10px;
+}
+
+.pic img{
+    border-radius: 10px;
+}
+.collaction{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 300px;
+    margin-left: 250px;
+   
+}
+.pop-col{
+padding-left: 630px;
+}
+.see-more{
+    color: hotpink;
+}
+footer p, h3{
+    text-align: center;
 }
