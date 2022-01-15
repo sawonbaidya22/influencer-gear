@@ -16,9 +16,24 @@ section{
     display: flex;
 }
 .camera{
-    width: 50%;
-    padding: 3%;
+    width: 100%;
+    padding: 20px 100px 80px 100px;
+   
     
+}
+.camera p{
+    text-align: left;
+}
+
+.header-image{
+    width: 410px;
+	height: auto;
+    -webkit-transition: .2s ease-in-out;
+	transition: .2s ease-in-out;
+    margin-right: 200px;
+}
+.header-image:hover{
+    width: 450px;
 }
 
 .book-now{
