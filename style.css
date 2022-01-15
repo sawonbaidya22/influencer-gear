@@ -56,6 +56,20 @@ padding-left: 630px;
 .see-more{
     color: hotpink;
 }
-footer p, h3{
+footer h3, p, a{
     text-align: center;
+}
+ 
+.bottom{
+    background-color: black;
+    padding: 45px;
+    width: 100%;
+}
+.white-color{
+    color:white ;
+}
+.fab{
+    color: white;
+  padding-left: 45px;
+    
 }
